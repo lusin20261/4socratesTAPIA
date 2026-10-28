@@ -1,0 +1,5 @@
+print("------------------practica------------------")
+a=input("escribe tu nombre")
+b=input("escribe tu edad")
+c=input("escribe tu comida favorita")
+print("hola como estas" , a , "tienes",b,"tu comida favorita es",c,)
