@@ -1,0 +1,8 @@
+a = input("pon tu pelicula favorita")
+b = input("pon tu edad")
+c = input("pon tu comida favorita")
+d = input("pon tu nombre")
+print("hola",d)
+print ("tienes",b, "que bueno")
+print("tu comida favorita es" ,c, "esta bien")
+print("tu pelicula favorita es" ,a, "es bonita")
