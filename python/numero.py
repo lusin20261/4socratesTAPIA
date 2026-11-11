@@ -1,0 +1,7 @@
+print("-------------mi calculadora-----------------")
+a = input("ingresa el primer numero")
+b = input("ingresa el segumdo numero")
+a =int(a)
+b =int(b)
+print("la suma de es",a+b)
+print("la multiplicacion de es",b*a)
